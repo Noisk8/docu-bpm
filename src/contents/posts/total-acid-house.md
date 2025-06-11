@@ -4,6 +4,7 @@ published: 1992-01-14
 description: 920 516-1
 tags: [Various ]
 category: Techno
+label: Discos Philips Colombia
 draft: false
 cover: https://i.discogs.com/tW0XmsWIWSvbwj2qsYocW7h9U_ZPVY6459U2Tf6Ph-s/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjc0/ODk5LTE1MjA0NTI4/NzMtNjkxMy5qcGVn.jpeg
 ---

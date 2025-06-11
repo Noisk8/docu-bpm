@@ -1,0 +1,19 @@
+---
+import ChipLayout from "../../layouts/ChipLayout.astro";
+import I18nKeys from "../../locales/keys";
+import { i18n } from "../../locales/translation";
+import { GetLabels } from "../../utils/content";
+
+const labels = await GetLabels();
+const labelList = Array.from(labels.values()).map((label) => ({
+  name: label.name,
+  count: label.posts.length,
+  url: label.slug,
+}));
+---
+
+<ChipLayout
+  title="Sellos"
+  subTitle={i18n(I18nKeys.pages_labels_all_labels)}
+  chips={labelList}
+/>

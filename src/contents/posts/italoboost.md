@@ -4,7 +4,8 @@ published: 1989-01-14
 description: ZYX 6200-12
 tags: [Various ]
 category: Italo-Disco
-draft: false
+draft: false  
+label: ZYX Records
 cover: https://i.discogs.com/qHGKJ47_Q-p0riMJX5v4ycRo1mkYRmau06kNUiCC1XE/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MTk3/OTMtMTM5ODE4Nzcy/NS05MTMzLmpwZWc.jpeg
 ---
 

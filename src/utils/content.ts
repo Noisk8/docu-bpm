@@ -2,13 +2,14 @@ import { getCollection } from "astro:content";
 import { IdToSlug } from "./hash";
 
 /**
- * Represents an archive item with a title, slug, date, and optional tags.
+ * Represents an archive item with a title, slug, date, optional tags, and optional label.
  */
 export interface Archive {
   title: string;
   id: string;
   date: Date;
   tags?: string[];
+  label?: string;
 }
 
 /**
@@ -24,6 +25,15 @@ export interface Tag {
  * Represents a category of content.
  */
 export interface Category {
+  name: string;
+  slug: string;
+  posts: Archive[];
+}
+
+/**
+ * Represents a label (sello) used to categorize content.
+ */
+export interface Label {
   name: string;
   slug: string;
   posts: Archive[];
@@ -88,6 +98,7 @@ export async function GetArchives() {
       id: `/posts/${IdToSlug(post.id)}`,
       date: date,
       tags: post.data.tags,
+      label: post.data.label,
     });
   }
 
@@ -130,6 +141,7 @@ export async function GetTags() {
         id: `/posts/${IdToSlug(post.id)}`,
         date: new Date(post.data.published),
         tags: post.data.tags,
+        label: post.data.label,
       });
     });
   });
@@ -168,8 +180,47 @@ export async function GetCategories() {
       id: `/posts/${IdToSlug(post.id)}`,
       date: new Date(post.data.published),
       tags: post.data.tags,
+      label: post.data.label,
     });
   });
 
   return categories;
+}
+
+/**
+ * Retrieves all labels (sellos) from blog posts and their associated posts.
+ *
+ * This function fetches all blog posts from the "posts" collection and filters them based on the environment.
+ * In production, it excludes drafts. It then organizes the posts by labels and returns a map of labels.
+ *
+ * @returns A promise that resolves to a map of labels, where each label contains its name, slug, and associated posts.
+ */
+export async function GetLabels() {
+  const allBlogPosts = await getCollection("posts", ({ data }) => {
+    return import.meta.env.PROD ? data.draft !== true : true;
+  });
+
+  const labels = new Map<string, Label>();
+
+  allBlogPosts.forEach((post) => {
+    if (!post.data.label) return;
+    const labelSlug = IdToSlug(post.data.label);
+
+    if (!labels.has(labelSlug)) {
+      labels.set(labelSlug, {
+        name: post.data.label,
+        slug: `/labels/${labelSlug}`,
+        posts: [],
+      });
+    }
+    labels.get(labelSlug)!.posts.push({
+      title: post.data.title,
+      id: `/posts/${IdToSlug(post.id)}`,
+      date: new Date(post.data.published),
+      tags: post.data.tags,
+      label: post.data.label,
+    });
+  });
+
+  return labels;
 }

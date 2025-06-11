@@ -14,6 +14,7 @@ const posts = defineCollection({
     cover: z.string().optional(),
     tags: z.array(z.string()).optional(),
     category: z.string().optional(),
+    label: z.string().optional(),
     author: z.string().optional(),
     sourceLink: z.string().optional(),
     licenseName: z.string().optional(),

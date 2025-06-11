@@ -5,6 +5,7 @@ description: NBLP-2-7161
 tags: [Various]
 category: Disco
 draft: false
+label: Casablanca
 cover: https://i.discogs.com/qR829wMfISEXdrrSMzBc66mzY8DNpGAUA6umKXmUacI/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNzI0/LTEzMTcwMjg4NDcu/anBlZw.jpeg
 ---
 
