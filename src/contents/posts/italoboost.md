@@ -2,7 +2,7 @@
 title: Various – Italo Boot Mix Vol. 13
 published: 1989-01-14
 description: ZYX 6200-12
-tags: [Various ]
+tags: [Clio & Kay, Rocco Granata, FD.F.C. Team, Francesco Salvi]
 category: Italo-Disco
 draft: false  
 label: ZYX Records

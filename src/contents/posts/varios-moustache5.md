@@ -20,10 +20,10 @@ cover: https://i.discogs.com/nYmnHFK1mDANKMs1k79FZKkeQseomkHu2iAi-hnDs1g/rs:fit/
 
 
 
-| Lado | Canción | BPM |
-| --- | --- | --- |
-| A1 | Hondebrok	| **120** |
-| A2 | Icon Of The Night	| **120** |
-| B1 | 	Not To Be Compromised| **120** |
-| B2 | Tonight Is The Night| **120** |
+| Lado |Artista | Canción | BPM |
+| --- | --- | --- | --- |
+| A1 | Tending Tropic | Hondebrok		| **120** |
+| A2 | Adrian Marth |Icon Of The Night	| **120** |
+| B1 | Im Kellar |Not To Be Compromised| **120** |
+| B2 | Caifus |Tonight Is The Night| **120** |
 
