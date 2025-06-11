@@ -2,7 +2,7 @@
 title: Alan Strani - Apocalypso Remixes
 published: 2029-08-01
 description: This post demonstrates how to include embedded video in a blog post.
-tags: [Italo-Disco]
+tags: [Alan Strani]
 category: Italo-Disco
 draft: false
 cover: https://i.discogs.com/uw_oD3kf8yGhnlDW9Rn0PgjCEnElw6brIgIzyzF1vUU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTYy/NDI4LTE2OTcwMzUw/NTgtMjE2Ny5qcGVn.jpeg

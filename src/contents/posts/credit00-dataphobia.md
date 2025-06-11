@@ -2,7 +2,7 @@
 title: Credit 00 - Data Phobia
 published: 2022-01-14
 description: MTRONW010
-tags: [EBM ]
+tags: [Credit 00 ]
 category: EBM
 draft: false
 cover: https://i.discogs.com/sk9e-iIZ11-PWodVSipn3mPJ2ZtM99OhhiIVrewEh7M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDgy/MDI2LTE2NDA0NTQx/NjYtNjIyMS5wbmc.jpeg
