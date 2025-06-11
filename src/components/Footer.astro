@@ -1,6 +1,6 @@
 ---
 import { Icon } from "astro-icon/components";
-import YukinaConfig from "../../yukina.config";
+import Noisk8Config from "../../noisk8.config";
 import { i18n } from "../locales/translation";
 import I18nKeys from "../locales/keys";
 import { GetCategories, GetTags } from "../utils/content";
@@ -27,7 +27,7 @@ const tagKeys = [...tags.keys()];
     <div class="relative grid grid-cols-2 gap-1 md:grid-cols-3">
       {
         categoryKeys
-          .slice(0, YukinaConfig.maxFooterCategoryChip)
+          .slice(0, Noisk8Config.maxFooterCategoryChip)
           .map((category) => (
             <a
               href={`/categories/${category}`}
@@ -43,22 +43,22 @@ const tagKeys = [...tags.keys()];
           ))
       }
       {
-        categoryKeys.length > YukinaConfig.maxFooterCategoryChip && (
+        categoryKeys.length > Noisk8Config.maxFooterCategoryChip && (
           <a
-            href={`/categories/${categoryKeys[YukinaConfig.maxFooterCategoryChip]}`}
+            href={`/categories/${categoryKeys[Noisk8Config.maxFooterCategoryChip]}`}
             class="category col-span-2 flex flex-row items-center justify-between rounded-lg px-2 py-1.5 transition-all hover:bg-[var(--primary-color-lighten)] md:col-span-3"
           >
             <p class="line-clamp-1 text-[var(--text-color)] transition-all">
               {
                 categories.get(
-                  categoryKeys[YukinaConfig.maxFooterCategoryChip],
+                  categoryKeys[Noisk8Config.maxFooterCategoryChip],
                 )!.name
               }
             </p>
             <span class="rounded-md bg-[var(--primary-color-lighten)] px-2.5 py-0.5 text-[var(--primary-color)]">
               {
                 categories.get(
-                  categoryKeys[YukinaConfig.maxFooterCategoryChip],
+                  categoryKeys[Noisk8Config.maxFooterCategoryChip],
                 )!.posts.length
               }
             </span>
@@ -87,7 +87,7 @@ const tagKeys = [...tags.keys()];
     </div>
     <div class="relative flex flex-row flex-wrap">
       {
-        tagKeys.slice(0, YukinaConfig.maxFooterTagChip + 1).map((tag) => (
+        tagKeys.slice(0, Noisk8Config.maxFooterTagChip + 1).map((tag) => (
           <a
             href={`/tags/${tag}`}
             class="tag m-1 rounded-md bg-[var(--primary-color-lighten)] px-2 py-1 transition-all hover:brightness-95"
@@ -99,7 +99,7 @@ const tagKeys = [...tags.keys()];
         ))
       }
       {
-        tagKeys.length >= YukinaConfig.maxFooterCategoryChip + 1 && (
+        tagKeys.length >= Noisk8Config.maxFooterTagChip + 1 && (
           <div class="absolute bottom-0 flex h-10 w-full flex-row items-center justify-center bg-gradient-to-t from-[var(--card-color)] from-25% to-transparent backdrop-blur-sm">
             <a
               href="/tags/"

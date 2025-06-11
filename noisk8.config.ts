@@ -1,7 +1,7 @@
 import I18nKeys from "./src/locales/keys";
 import type { Configuration } from "./src/types/config";
 
-const YukinaConfig: Configuration = {
+const Noisk8Config: Configuration = {
   title: "Noisk8",
   subTitle: "Vynil Collection",
   brandTitle: "Noisk8",
@@ -70,4 +70,4 @@ const YukinaConfig: Configuration = {
   bannerStyle: "LOOP", // 'loop' | 'static' | 'hidden'
 };
 
-export default YukinaConfig;
+export default Noisk8Config;

@@ -12,13 +12,13 @@ import rehypeAutolinkHeadings from "rehype-autolink-headings";
 import remarkMath from "remark-math";
 import { remarkReadingTime } from "./src/plugins/remark-reading-time.mjs";
 
-import YukinaConfig from "./yukina.config";
+import Noisk8Config from "./noisk8.config";
 
 import pagefind from "astro-pagefind";
 
 // https://astro.build/config
 export default defineConfig({
-  site: YukinaConfig.site,
+  site: Noisk8Config.site,
   integrations: [
     tailwind(),
     svelte(),

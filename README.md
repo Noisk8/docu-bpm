@@ -1,15 +1,3 @@
-# Yukina
-
-Simple and Elegant Astro Blog Template
-
-![Preview](https://s2.loli.net/2025/01/26/S4URrsj9TFgOKAp.webp)
-
-[中文](https://github.com/WhitePaper233/yukina/blob/main/README_zh.md)
-
-## Demo Preview Links
-
-[🖥️ Live Demo (Vercel)](https://yukina-blog.vercel.app) |
-[🖥️ WhitePaper233's Blog (possibly not the latest version)](https://whitepaper233.top/)
 
 ## 🛠️ Build Guide
 
