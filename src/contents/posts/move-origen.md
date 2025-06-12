@@ -19,7 +19,7 @@ cover: https://i.discogs.com/YvIzeKIjrg9zx6qUiYphh7rd8qU9HXKlkfWRofT2ewo/rs:fit/
 
 | Lado | Artista          | Canción     | BPM     |
 | ---- | ---------------- | ----------- | ------- |
-| A1   | Black Propaganda | Falso Lider | **120** |
-| A2   | Retrograde Youth | Paraíso     | **120** |
-| B1   | Merino           | Vórtice     | **120** |
+| A1   | Black Propaganda | Falso Lider | **108** |
+| A2   | Retrograde Youth | Paraíso     | **122** |
+| B1   | Merino           | Vórtice     | **130** |
 | B2   | Blotketch        | Epicentro   | **120** |
