@@ -3,7 +3,7 @@ title: UR – Knights Of The Jaguar EP
 published: 2005-01-14
 description: MTRONW010
 tags: [Underground Resistance]
-category: EBM
+category: Techno
 draft: false
 label: Underground Resistance
 cover: https://i.discogs.com/Jt8Cm8tYj8dTBtVYIrhO9bS76wAtnqKNtn13643fguY/rs:fit/g:sm/q:90/h:354/w:345/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjc2/MDMtMTE5Nzc5NTg1/Ni5qcGVn.jpeg
