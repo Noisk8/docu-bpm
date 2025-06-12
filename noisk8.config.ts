@@ -57,6 +57,7 @@ const Noisk8Config: Configuration = {
     "https://i.discogs.com/3zcsYhQUBliUG2Mncd5yUcT6Fu63LDBa9tYu1UvAc4Y/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDMx/MS0xMzk5NTc1NTI2/LTc5NTEuanBlZw.jpeg",
     "https://i.discogs.com/Jt8Cm8tYj8dTBtVYIrhO9bS76wAtnqKNtn13643fguY/rs:fit/g:sm/q:90/h:354/w:345/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjc2/MDMtMTE5Nzc5NTg1/Ni5qcGVn.jpeg",
     "https://i.discogs.com/msSagMD2R5RXVKRvt2eVkb-6KWbbhaXBzsgRvBYp5dE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDE3/MzkxLTE3MTM0Mzgx/NjktNDQ2MS5qcGVn.jpeg",
+    "https://f4.bcbits.com/img/a1781295251_16.jpg",
   ],
 
   slugMode: "HASH", // 'RAW' | 'HASH'

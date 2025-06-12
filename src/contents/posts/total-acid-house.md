@@ -20,10 +20,10 @@ cover: https://i.discogs.com/tW0XmsWIWSvbwj2qsYocW7h9U_ZPVY6459U2Tf6Ph-s/rs:fit/
 
 
 
-| Lado | Canción | BPM |
-| --- | --- | --- |
-| A1 | Data Phobia	| **120** |
-| A2 | Being Baked	| **120** |
-| B1 | Fatty Acid | **120** |
-| B2 | Control Z | **120** |
+| Lado | Artista        | Canción               | BPM     |
+| ---- | -------------- | --------------------- | ------- |
+| A1   | Tending Tropic | Hondebrok             | **120** |
+| A2   | Adrian Marth   | Icon Of The Night     | **120** |
+| B1   | Im Kellar      | Not To Be Compromised | **120** |
+| B2   | Caifus         | Tonight Is The Night  | **120** |
 
