@@ -3,8 +3,6 @@ import { IdToSlug } from "../utils/hash";
 import { Icon } from "astro-icon/components";
 import PostCardInfoIcon from "./widgets/PostCardInfoIcon.astro";
 import { GetCoverURLForUnspecifiedEntry } from "../utils/cover";
-import { i18n } from "../locales/translation";
-import I18nKeys from "../locales/keys";
 import Noisk8Config from "../../noisk8.config";
 import { formatDate } from "../utils/date";
 
@@ -16,13 +14,13 @@ export interface Props {
   tags?: string[];
   description?: string;
   image?: string;
+  label?: string;
   readingMetadata: { time: number; wordCount: number };
 }
 
 const props = Astro.props;
 const entryID = IdToSlug(props.id);
 const contentUrl = `/posts/${entryID}`;
-const { time, wordCount } = props.readingMetadata;
 ---
 
 <div
@@ -126,9 +124,19 @@ const { time, wordCount } = props.readingMetadata;
       </div>
       <div class="lg:ml-2">
         <p class="desc">{props.description}</p>
+     
       </div>
       <div>
-        <div class="select-none lg:ml-2">
+        {
+          props.label && (
+            <p class="desc">
+             
+              <span>{props.label}</span>
+            </p>
+          )
+        }
+
+        <!-- <div class="select-none lg:ml-2">
           <div class="reading-time">
             <span>
               {wordCount}
@@ -140,7 +148,9 @@ const { time, wordCount } = props.readingMetadata;
               {i18n(I18nKeys.post_card_minutes)}
             </span>
           </div>
-        </div>
+        </div> -->
+
+      
       </div>
     </div>
     <div class="cover-container">

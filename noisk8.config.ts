@@ -8,7 +8,7 @@ const Noisk8Config: Configuration = {
 
   description: "Demo Site",
 
-  site: "https://yukina-blog.vercel.app",
+  site: "https://docu-bpm.vercel.app/",
 
   locale: "en", // set for website language and date format
 
