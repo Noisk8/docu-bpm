@@ -19,6 +19,6 @@ cover: https://i.discogs.com/Jt8Cm8tYj8dTBtVYIrhO9bS76wAtnqKNtn13643fguY/rs:fit/
 
 | Lado | Canción     | BPM     |
 | ---- | ----------- | ------- |
-| A   | Jaguar| **135** |
-| B   | Ascesion| **135** |
+| A   | Jaguar| **138** |
+| B   | Ascesion| **139** |
 

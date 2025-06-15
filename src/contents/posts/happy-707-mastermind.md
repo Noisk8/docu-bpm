@@ -19,7 +19,7 @@ cover: https://i.discogs.com/4d4wLY3PciRkJAgZWrbHRNE8PqDqfvIgc5vzzQyycsE/rs:fit/
 
 | Lado | Canción      | BPM     |
 | ---- | ------------ | ------- |
-| A1   | Electrike    | **115** |
-| A2   | Mastermind   | **115** |
-| B1   | Metallic Sky | **115** |
-| B2   | Polymono     | **115** |
+| A1   | Electrike    | **128** |
+| A2   | Mastermind   | **123** |
+| B1   | Metallic Sky | **125** |
+| B2   | Polymono     | **119** |

@@ -19,6 +19,6 @@ cover: https://m.media-amazon.com/images/I/51kpQUyxXYL._UXNaN_FMjpg_QL85_.jpg
 
 | Lado | Canción     | BPM     |
 | ---- | ----------- | ------- |
-| C   | Dive In The Pool (Johnny FX Big Splash Mix)| **120** |
-| D  | Dive In The Pool (X-Union Mix) | **120** |
+| C   | Dive In The Pool (Johnny FX Big Splash Mix)| **142** |
+| D  | Dive In The Pool (X-Union Mix) | **133** |
 

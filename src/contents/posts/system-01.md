@@ -25,9 +25,9 @@ cover: https://i.discogs.com/msSagMD2R5RXVKRvt2eVkb-6KWbbhaXBzsgRvBYp5dE/rs:fit/
 | B1   | Know Time                                | **125** |
 | B2   | Paralysed Force (Shape Without Form Mix) | **125** |
 | B3   | Deadly & Addictive                       | **125** |
-| C1   | The Pleasure Principle                   | **125** |
-| C2   | Mind Sensations (Voov / System 01 Remix) | **125** |
-| C3   | Victim 34                                | **125** |
-| D1   | Take My Soul                             | **125** |
-| D2   | The Confession                           | **125** |
-| D3   | You're Like Me                           | **125** |
+| C1   | The Pleasure Principle                   | **135** |
+| C2   | Mind Sensations (Voov / System 01 Remix) | **91** |
+| C3   | Victim 34                                | **136** |
+| D1   | Take My Soul                             | **135** |
+| D2   | The Confession                           | **91** |
+| D3   | You're Like Me                           | **136** |
