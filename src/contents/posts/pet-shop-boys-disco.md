@@ -19,9 +19,9 @@ cover: https://i.discogs.com/2CkAMwFqZMmwyf5p9VT5dBeINUMP5PQNVwX62U8SQMM/rs:fit/
 
 | Lado | Canción            | BPM     |
 | ---- | ------------------ | ------- |
-| A1   | In The Night       | **125** |
+| A1   | In The Night       | **122** |
 | A2   | Suburbia           | **125** |
-| A3   | Oppotunities       | **125** |
-| B1   | Paninaro           | **125** |
-| B2   | Love Comes Quickly | **125** |
-| B3   | West End Girls     | **125** |
+| A3   | Oppotunities       | **128** |
+| B1   | Paninaro           | **122** |
+| B2   | Love Comes Quickly | **112** |
+| B3   | West End Girls     | **115** |
