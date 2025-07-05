@@ -19,9 +19,9 @@ cover: https://i.discogs.com/jaRDZ9b4wOZgVjpYEvfFYBJMB01Kh8vF9GCK_AGHp3U/rs:fit/
 
 | Lado | Canción                                   | BPM     |
 | ---- | ----------------------------------------- | ------- |
-| A1   | Trance Beckenbauer                        | **115** |
-| A2   | Putos Mosquitos                           | **115** |
-| A3   | Congarella Di Luna                        | **115** |
+| A1   | Trance Beckenbauer                        | **104** |
+| A2   | Putos Mosquitos                           | **112** |
+| A3   | Congarella Di Luna                        | **122** |
 | B1   | Analog Garbage                            | **115** |
-| B2   | Putos Mosquitos (Inigo Vontier Remix)     | **115** |
-| B3   | Congarella Di Luna (Zillas On Acid Remix) | **115** |
+| B2   | Putos Mosquitos (Inigo Vontier Remix)     | **123** |
+| B3   | Congarella Di Luna (Zillas On Acid Remix) | **117** |
