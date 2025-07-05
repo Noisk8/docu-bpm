@@ -19,5 +19,5 @@ cover: https://i.discogs.com/ymjtfRObLL1jWwYwQEofAQWsNCI5KdOi0WFaQyiyLHI/rs:fit/
 
 | Lado | Canción                  | BPM     |
 | ---- | ------------------------ | ------- |
-| A    | Face In The Night        | **125** |
-| B    | Face In The Night (Edit) | **125** |
+| A    | Face In The Night        | **126** |
+| B    | Face In The Night (Edit) | **127** |
