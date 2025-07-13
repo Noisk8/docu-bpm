@@ -29,11 +29,11 @@ cover: https://i.discogs.com/sNvc1a5EwK9R9p5Ny9ld3yPBe2Fl_Y35C9-ZZTtAkDU/rs:fit/
 
 | Lado | Artista              | Canción                     | BPM     |
 | ---- | -------------------- | --------------------------- | ------- |
-| A1   | Jordan Fields        | It's An Interesting Thought | **120** |
-| A2   | Black Eyes (5)       | Get Down For The Hydro      | **120** |
-| A3   | New Digital Fidelity | Needs                       | **120** |
-| A4   | Boo Williams         | The Place To Go             | **120** |
-| A5   | Mosaik Kollektif     | Plankton                    | **120** |
-| A6   | Miguel Hernandez     | Sea Roots                   | **120** |
-| B1   | Frankie M            | Operating In The Red        | **120** |
-| B2   | Delano Smith         | Trapped Inside              | **120** |
+| A1   | Jordan Fields        | It's An Interesting Thought | **122** |
+| A2   | Black Eyes (5)       | Get Down For The Hydro      | **121** |
+| B1   | New Digital Fidelity | Needs                       | **126** |
+| B2   | Boo Williams         | The Place To Go             | **125** |
+| C1   | Mosaik Kollektif     | Plankton                    | **122** |
+| C2   | Miguel Hernandez     | Sea Roots                   | **120** |
+| D1   | Frankie M            | Operating In The Red        | **128** |
+| D2   | Delano Smith         | Trapped Inside              | **125** |

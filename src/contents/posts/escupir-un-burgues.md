@@ -19,9 +19,9 @@ cover: https://f4.bcbits.com/img/a1781295251_16.jpg
 
 | Lado | Canción            | BPM     |
 | ---- | ------------------ | ------- |
-| A1   | Cyber Chase        | **115** |
-| A2   | El Extranjero      | **115** |
-| A3   | Las Bolas          | **115** |
-| B1   | Escupir Un Burgues | **115** |
-| B2   | Magic Wave         | **115** |
-| B3   | Ultraman Theme     | **115** |
+| A1   | Cyber Chase        | **122** |
+| A2   | El Extranjero      | **125** |
+| A3   | Las Bolas          | **128** |
+| B1   | Escupir Un Burgues | **128** |
+| B2   | Magic Wave         | **128** |
+| B3   | Ultraman Theme     | **75** |
