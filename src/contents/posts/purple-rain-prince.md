@@ -1,10 +1,10 @@
 ---
 title: Purple Rain - Prince
-published: 19960-11-13
+published: 1996-11-13
 description: RS14ENERGYFLASHCLEAR
-tags: [Joey Beltran]
+tags: [Prince]
 category: Rock
-label: Warner Bros.
+label: Warner Bros
 draft: false
 cover: https://i.discogs.com/F8rj2Ri40afoSgWjqrgtz4PvHPTcVRSM-dXFROsTC_Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTA2/NDc2LTE2OTM5MTgz/MTEtNTIxOS5qcGVn.jpeg
 ---
@@ -13,13 +13,13 @@ cover: https://i.discogs.com/F8rj2Ri40afoSgWjqrgtz4PvHPTcVRSM-dXFROsTC_Y/rs:fit/
 
 ### **1996**
 
-### Warner Bros.
+### Warner Bros
 
 ![](https://i.discogs.com/zhN7VGlZEU6N_iVq81k1QXuQG5p4qi4KIe0K5-HumFQ/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTA2/NDc2LTE2OTM5MTgz/MTEtMjU0Ni5qcGVn.jpeg)
 
 | Lado | Canción            | BPM     |
 | ---- | ------------------ | ------- |
-| A1   | Let's Go Crazy     | **098**  |
+| A1   | Let's Go Crazy     | **098** |
 | A2   | Take Me With U     | **121** |
 | A3   | The Beautiful Ones | **073** |
 | A4   | Computer Blue      | **133** |
