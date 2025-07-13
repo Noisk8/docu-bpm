@@ -6,7 +6,7 @@ tags: [Joey Beltran]
 category: Rock
 label: Warner Bros.
 draft: false
-cover: https://i.discogs.com/MEQS6svClasayBvKLLUuJfvPXSy5zmexUA6qEsifAYA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTg0/MzM1LTE2Mzk0ODIx/MzAtNjY5NS5qcGVn.jpeg
+cover: https://i.discogs.com/F8rj2Ri40afoSgWjqrgtz4PvHPTcVRSM-dXFROsTC_Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTA2/NDc2LTE2OTM5MTgz/MTEtNTIxOS5qcGVn.jpeg
 ---
 
 # Purple Rain - Prince and the revolution
@@ -15,13 +15,16 @@ cover: https://i.discogs.com/MEQS6svClasayBvKLLUuJfvPXSy5zmexUA6qEsifAYA/rs:fit/
 
 ### Warner Bros.
 
-![](https://i.discogs.com/MEQS6svClasayBvKLLUuJfvPXSy5zmexUA6qEsifAYA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTg0/MzM1LTE2Mzk0ODIx/MzAtNjY5NS5qcGVn.jpeg)
+![](https://i.discogs.com/zhN7VGlZEU6N_iVq81k1QXuQG5p4qi4KIe0K5-HumFQ/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTA2/NDc2LTE2OTM5MTgz/MTEtMjU0Ni5qcGVn.jpeg)
 
-| Lado | Canción      | BPM     |
-| ---- | ------------ | ------- |
-| A    | Bajo Tierra | **125** |
-| B    | Bajo Tierra | **125** |
-| C    | Bajo Tierra | **125** |
-| D    | Bajo Tierra | **125** |
-| E    | Bajo Tierra | **125** |
-| F    | Bajo Tierra | **125** |
+| Lado | Canción            | BPM     |
+| ---- | ------------------ | ------- |
+| A1   | Let's Go Crazy     | **098**  |
+| A2   | Take Me With U     | **121** |
+| A3   | The Beautiful Ones | **073** |
+| A4   | Computer Blue      | **133** |
+| A5   | Darling Nikki      | **078** |
+| B1   | When Doves Cry     | **127** |
+| B2   | I Would Die 4 U    | **135** |
+| B3   | Baby I'm A Star    | **138** |
+| B4   | Purple Rain        | **115** |

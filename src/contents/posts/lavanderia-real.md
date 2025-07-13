@@ -6,7 +6,7 @@ tags: [Joey Beltran]
 category: Rock
 label: Codiscos
 draft: false
-cover: https://i.discogs.com/MEQS6svClasayBvKLLUuJfvPXSy5zmexUA6qEsifAYA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTg0/MzM1LTE2Mzk0ODIx/MzAtNjY5NS5qcGVn.jpeg
+cover: https://i.discogs.com/yRCEpmU4K-o5wx2zBe803Hv52TXGTCrfFdxtaLkUBC4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTA3/MDc2LTE2ODQzMzU4/NDktMTc5Ni5qcGVn.jpeg
 ---
 
 # Lavanderia Real – Bajo Tierra
@@ -15,13 +15,16 @@ cover: https://i.discogs.com/MEQS6svClasayBvKLLUuJfvPXSy5zmexUA6qEsifAYA/rs:fit/
 
 ### Codiscos
 
-![](https://i.discogs.com/MEQS6svClasayBvKLLUuJfvPXSy5zmexUA6qEsifAYA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTg0/MzM1LTE2Mzk0ODIx/MzAtNjY5NS5qcGVn.jpeg)
+![](https://i.discogs.com/yRCEpmU4K-o5wx2zBe803Hv52TXGTCrfFdxtaLkUBC4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTA3/MDc2LTE2ODQzMzU4/NDktMTc5Ni5qcGVn.jpeg)
 
 | Lado | Canción      | BPM     |
 | ---- | ------------ | ------- |
-| A    | Bajo Tierra | **125** |
-| B    | Bajo Tierra | **125** |
-| C    | Bajo Tierra | **125** |
-| D    | Bajo Tierra | **125** |
-| E    | Bajo Tierra | **125** |
-| F    | Bajo Tierra | **125** |
+| A1   | Inicio - El Justiciero| **125** |
+| A2   |	Las Puertas Del Amor| **125** |
+| A3   | 	Jimmy Garcia (interzona)| **125** |
+| A4   | Material Duro | **125** |
+| A5   | 		Todo bien (sub-ciro) | **125** |
+| B1   | 	Hi-fi| **125** |
+|B2    | 	Resurrección este Domingo| **125** |
+|B3    | 	Slam Dance| **125** |
+

@@ -19,7 +19,7 @@ cover: https://i.discogs.com/7FvI7xrMgxh007Ria9qqANI4y1je7aLl9ozJPrtU5D4/rs:fit/
 
 | Lado | Canción                           | BPM     |
 | ---- | --------------------------------- | ------- |
-| A1   | Smog On The Dancefloor Feat. Rein | **115** |
-| A2   | Frozen                            | **115** |
-| B1   | Circus                            | **115** |
-| B2   | Not Real                          | **115** |
+| A1   | Smog On The Dancefloor Feat. Rein | **122** |
+| A2   | Frozen                            | **124** |
+| B1   | Circus                            | **90** |
+| B2   | Not Real                          | **132** |
