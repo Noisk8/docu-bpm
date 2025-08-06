@@ -19,7 +19,7 @@ cover: https://i.discogs.com/sk9e-iIZ11-PWodVSipn3mPJ2ZtM99OhhiIVrewEh7M/rs:fit/
 
 | Lado | Canción     | BPM     |
 | ---- | ----------- | ------- |
-| A1   | Data Phobia | **120** |
-| A2   | Being Baked | **120** |
-| B1   | Fatty Acid  | **120** |
-| B2   | Control Z   | **120** |
+| A1   | Data Phobia | **103** |
+| A2   | Being Baked | **103** |
+| B1   | Fatty Acid  | **123** |
+| B2   | Control Z   | **113** |

@@ -19,11 +19,11 @@ cover: https://i.discogs.com/3zcsYhQUBliUG2Mncd5yUcT6Fu63LDBa9tYu1UvAc4Y/rs:fit/
 
 | Lado | Canción                     | BPM     |
 | ---- | --------------------------- | ------- |
-| A1   | Fascinated                  | **114** |
-| A2   | Spin Me Around              | **120** |
+| A1   | Fascinated                  | **119** |
+| A2   | Spin Me Around              | **122** |
 | A3   | Signed In Your Book Of Love | **122** |
-| A4   | I'm Satisfied               | **125** |
-| B1   | Perfect Lover               | **125** |
-| B2   | Full Circle                 | **125** |
-| B3   | Jam On Me                   | **125** |
-| B4   | Infatuate Me                | **125** |
+| A4   | I'm Satisfied               | **120** |
+| B1   | Perfect Lover               | **122** |
+| B2   | Full Circle                 | **120** |
+| B3   | Jam On Me                   | **114** |
+| B4   | Infatuate Me                | **114** |

@@ -20,7 +20,7 @@ cover: https://i.discogs.com/csx8OoHCdHkgpQon76PXpWQmjp0cJ_yKaEBM7bV0MT8/rs:fit/
 
 | Lado | Artista              | Canción                     | BPM     |
 | ---- | -------------------- | --------------------------- | ------- |
-| A1   | Nuovo Testamento     | Heartbeat (Curses Remix)    | **120** |
-| A2   | Marie Möör           | Pretty Day                  | **120** |
-| B1   | J.W.B. Hits The Beat | Body On Body (Curses Remix) | **120** |
-| B2   | Cabaret Voltaire     | Blue Heat (12" Mix)         | **120** |
+| A1   | Nuovo Testamento     | Heartbeat (Curses Remix)    | **122** |
+| A2   | Marie Möör           | Pretty Day                  | **138** |
+| B1   | J.W.B. Hits The Beat | Body On Body (Curses Remix) | **122** |
+| B2   | Cabaret Voltaire     | Blue Heat (12" Mix)         | **122** |

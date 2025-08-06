@@ -19,12 +19,12 @@ cover: https://i.discogs.com/y1EsM5TibssQ2WuObOk7fMQID6dpxSysZOr8zLxLnBc/rs:fit/
 
 | Lado | Canción                   | BPM     |
 | ---- | ------------------------- | ------- |
-| A1   | Enter The Void            | **120** |
-| A2   | Deathwish                 | **120** |
-| A3   | Lost In A Sea Of Pain     | **120** |
-| A4   | The Brainwashed Masses    | **120** |
-| B1   | Zombimode                 | **120** |
-| B2   | Purgatory                 | **120** |
-| B3   | Mantra                    | **120** |
-| B4   | Theres Nothing Left Of Me | **120** |
-| B5   | Magnetoceptia             | **120** |
+| A1   | Enter The Void            | **130** |
+| A2   | Deathwish                 | **118** |
+| A3   | Lost In A Sea Of Pain     | **122** |
+| A4   | The Brainwashed Masses    | **122** |
+| B1   | Zombimode                 | **113** |
+| B2   | Purgatory                 | **119** |
+| B3   | Mantra                    | **123** |
+| B4   | Theres Nothing Left Of Me | **119** |
+| B5   | Magnetoceptia             | **130** |

@@ -25,5 +25,5 @@ cover: https://i.discogs.com/GEiY6dCCJpKiHgPD-tui4eX5r7oMuL4N9ow3kBAcI8Q/rs:fit/
 
 | Lado | Artista                 | Canción            | BPM     |
 | ---- | ----------------------- | ------------------ | ------- |
-| A    | Omar S                  | Muggy Detroit Heat | **120** |
-| B    | Norm Talley - Moodymann | Jus Hangin         | **120** |
+| A    | Omar S                  | Muggy Detroit Heat | **125** |
+| B    | Norm Talley - Moodymann | Jus Hangin         | **124** |

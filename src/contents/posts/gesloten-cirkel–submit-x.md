@@ -19,13 +19,13 @@ cover: https://i.discogs.com/cqHcGN99eIiwjIPHk6Le7fdvn60g1XeeXkNk88cDZgU/rs:fit/
 
 | Lado | Canción              | BPM     |
 | ---- | -------------------- | ------- |
-| A1   | Zombiemaschine Acid  | **114** |
-| A2   | Zombiemaschine       | **120** |
-| A3   | Submit X             | **122** |
-| B1   | Stakapella           | **125** |
-| B2   | Stakan               | **125** |
+| A1   | Zombiemaschine Acid  | **127** |
+| A2   | Zombiemaschine       | **125** |
+| A3   | Submit X             | **131** |
+| B1   | Stakapella           | **119** |
+| B2   | Stakan               | **120** |
 | B3   | Chatters             | **125** |
-| C1   | Feat Liette          | **125** |
-| C2   | Arrested Development | **125** |
-| D1   | Secret Area          | **125** |
-| D2   | Vader                | **125** |
+| C1   | Feat Liette          | **120** |
+| C2   | Arrested Development | **128** |
+| D1   | Secret Area          | **119** |
+| D2   | Vader                | **124** |
