@@ -23,8 +23,8 @@ cover: https://i.discogs.com/Gu1wmZGXmzE5IF3tL9U21ijjo4N6H2Frv6mWtVXLfEk/rs:fit/
 | A2   | Wacky Dust                  | **120** |
 | A3   | Nothin' You Can Do About It | **122** |
 | A4   | Coo Coo U                   | **125** |
-| B1a  | Twilight Zone               | **125** |
-| B1b  | Twilight Tone               | **125** |
+| B1a  | Twilight Zone               | **127** |
+| B1b  | Twilight Tone               | **127** |
 | B2   | Trickle Trickle             | **125** |
 | B3   | Shaker Song                 | **125** |
 | B4   | Foreign Affair              | **125** |

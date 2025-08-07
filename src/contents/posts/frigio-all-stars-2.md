@@ -19,9 +19,9 @@ cover: https://i.discogs.com/EE1PXLW0gd4mzhyW26er6-8KnLhXv0zvsVDhiDyQlWQ/rs:fit/
 
 | Lado | Artista          | Canción                        | BPM     |
 | ---- | ---------------- | ------------------------------ | ------- |
-| A1   | Pera Yang        | Mad Vision                     | **120** |
-| A2   | Daniel Holt      | Negative Spiritualism          | **120** |
-| A3   | Le Chocolat Noir | Post-Hibernation Re-Activation | **120** |
-| B1   | Satol            | A Touch Slower                 | **120** |
-| B2   | Foil             | Distortion Of Reality          | **120** |
-| B3   | Artificiero      | Logia De La Navaja             | **120** |
+| A1   | Pera Yang        | Mad Vision                     | **125** |
+| A2   | Daniel Holt      | Negative Spiritualism          | **115** |
+| A3   | Le Chocolat Noir | Post-Hibernation Re-Activation | **128** |
+| B1   | Satol            | A Touch Slower                 | **1xx** |
+| B2   | Foil             | Distortion Of Reality          | **115** |
+| B3   | Artificiero      | Logia De La Navaja             | **105** |
